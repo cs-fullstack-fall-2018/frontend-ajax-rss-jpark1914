@@ -1,0 +1,15 @@
+.root{
+    width: 100%;
+    float: left;
+}
+.par{
+    width: 30%;
+    padding: 1em 2em;
+}
+.anchor{
+    color: red;
+    border: 1px red solid;
+}
+.anchor:hover{
+    color: green;
+}
